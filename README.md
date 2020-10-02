@@ -13,7 +13,7 @@ This pacage is not forked but I took a lot of example by [react-native-bootsplas
 ## Assets generation
 To make it easy to implement splash screen I recommand to use script that creates the Android Drawable XML
 
-`$ npx generate-bootsplash`
+`$ npx generate-splash-screen`
 
 
 ## Android

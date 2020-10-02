@@ -1,8 +1,8 @@
 {
   "name": "react-native-splash-animations",
   "title": "React Native Splash Animations",
-  "version": "0.0.10",
-  "description": "TODO",
+  "version": "0.1.0",
+  "description": "Animated splash screen API for React Native. There are 6 different hiding animations.",
   "main": "index.js",
   "scripts": {
     "format": "prettier --write '**/*.{js,json,md}'"
