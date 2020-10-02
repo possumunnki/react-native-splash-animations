@@ -1,0 +1,43 @@
+{
+  "name": "react-native-splash-animations",
+  "title": "React Native Splash Animations",
+  "version": "0.0.10",
+  "description": "TODO",
+  "main": "index.js",
+  "scripts": {
+    "format": "prettier --write '**/*.{js,json,md}'"
+  },
+  "keywords": [
+    "react-native-splash-animations",
+    "react-native",
+    "splash-animations",
+    "splash-screen"
+  ],
+  "bin": {
+    "generate-splash-screen": "./scripts/generate.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/possumunnki/react-native-splash-animations.git",
+    "baseUrl": "https://github.com/possumunnki/react-native-splash-animations"
+  },
+  "author": {
+    "name": "Possu Munnki",
+    "email": "possumunnki@gmail.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react-native": ">=0.63.2"
+  },
+  "dependencies": {
+    "chalk": "4.1.0",
+    "jimp": "0.14.0",
+    "prompts": "2.3.2"
+  },
+  "devDependencies": {
+    "react": "16.11.0",
+    "react-native": "0.62.2"
+  }
+}
