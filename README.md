@@ -2,9 +2,9 @@
 Animated splash screen API for React Native. There are 6 different hiding animations.
 
 ## Before you start
-This pacage works **only with Android**.
+This package works **only with Android**.
 
-This pacage is not forked but I took lot of example by [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) so some codes are totally copy-pasted from `react-native-bootsplash`.
+This pacage is not forked but I took a lot of example by [react-native-bootsplash](https://github.com/zoontek/react-native-bootsplash) so some codes are totally copy-pasted from `react-native-bootsplash`.
 
 ## Getting started
 
